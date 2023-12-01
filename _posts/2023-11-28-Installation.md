@@ -6,7 +6,6 @@ categories: guides
 pin: true
 image: https://files.cocobut.net/screenshots/2023-11-30_18.10.21.png
 ---
-![image](https://files.cocobut.net/screenshots/2023-11-30_18.10.21.png)
 
 For our current mod pack we are using Fabric – a modular modding toolchain targeting Minecraft. Follow this guide, which includes recommendations for a smooth installation using mod managers like CurseForge and Prism Launcher.
 
