@@ -130,7 +130,7 @@ kramdown:
 collections:
   tabs:
     output: true
-    sort_by: reversed
+    sort_by: order
   announcements:
     output: true
     permalink: /announcements/:path/
