@@ -3,6 +3,7 @@ layout: post
 title: "Mod Pack installation"
 date: 2023-11-29 10:00:00 +0100
 categories: setup installation
+pin: true
 ---
 ![image](https://files.cocobut.net/screenshots/2023-11-30_18.10.21.png)
 
