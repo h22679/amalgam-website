@@ -2,7 +2,7 @@
 layout: post
 title: "Text Formatting"
 date: 2023-11-28 10:00:00 +0100
-categories: guides text-formatting
+categories: guides
 ---
 ![image](https://files.cocobut.net/screenshots/2023-11-30_18.15.24.png)
 
