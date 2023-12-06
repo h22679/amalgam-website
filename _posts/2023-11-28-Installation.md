@@ -7,7 +7,7 @@ pin: true
 image: https://files.cocobut.net/screenshots/2023-11-30_18.10.21.png
 ---
 
-For our current mod pack we are using Fabric – a modular modding toolchain targeting Minecraft. Follow this guide, which includes recommendations for a smooth installation using mod managers like CurseForge and Prism Launcher.
+For our current mod packs we are using Fabric (for 1.18.2) and Forge (for 1.16.5). Follow this guide, which includes recommendations for a smooth installation using mod managers like CurseForge and Prism Launcher.
 
 ### Why Use a Separate Installation?
 It's recommended to create a separate Minecraft installation for Fabric to avoid conflicts with vanilla or other modded profiles and mod packs.

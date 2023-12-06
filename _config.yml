@@ -14,16 +14,16 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mods server # the main title
+title: Amalgam # the main title
 
-tagline: Invite-only Minecraft Server # it will display as the sub-title
+tagline: Invite-only Server # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Invite-only Minecraft Server.
+  Invite-only Server.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://info.cocobut.net"
+url: "https://amalgam.cc"
 
 github:
   username: h22679 # change to your github username

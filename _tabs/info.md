@@ -10,7 +10,7 @@ order: 2
 
 ---
 
-<iframe style="width:100%; height:500px;" src="https://uptime.cocobut.net/status/mod-server"></iframe>
+<iframe style="width:100%; height:600px;" src="https://uptime.cocobut.net/status/mod-server"></iframe>
 
 ---
 
